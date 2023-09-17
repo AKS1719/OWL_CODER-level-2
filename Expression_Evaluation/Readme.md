@@ -32,7 +32,7 @@ NO
 
 <ul>
 	<li><code>1 <= T <= 100000</code></li>
-	<li><code>1 <= T <= 100000</code></li>
+	<li><code>1 <= A <= B <= C <= 10<sup>18</sup> </code></li>
 	
 </ul>
 
