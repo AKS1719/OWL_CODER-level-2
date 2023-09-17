@@ -1,4 +1,4 @@
-<h2>Count no. of vowels, consonants, digits and spaces</h2> <img src='https://img.shields.io/badge/Difficulty-Hard-brightgreen' alt='Difficulty: Hard' /><hr>
+<h2>Multiplication table within range</h2> <img src='https://img.shields.io/badge/Difficulty-Hard-brightgreen' alt='Difficulty: Hard' /><hr>
 <p>
   You are developing a program for an educational website that helps students practice multiplication tables. Your task is to write a Python program that generates the multiplication table for a given number N within a specified range [A, B], both inclusive.
 </p>
